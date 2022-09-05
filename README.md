@@ -62,7 +62,9 @@ Use Insomnia to execute GET, POST, PUT and DELETE requests to the relevant route
 ## Links
 GitHub: [https://github.com/carolinemae](https://github.com/carolinemae/e-commerce-app)
 
-Video (demo): [https://drive.google.com/file](https://drive.google.com/file/d/166Ah5v_Ye2A192y014s9Sbla4Ax91fv1/view)
+Video (Demo 1): [https://drive.google.com/video-1](https://drive.google.com/file/d/166Ah5v_Ye2A192y014s9Sbla4Ax91fv1/view)
+
+Video (Demo 2): [https://drive.google.com/video-2](https://drive.google.com/file/d/10nxCR0ESaHvCE8oG5KvkzVn_nrLJXtNJ/view)
 
 Email: [carolinemaee@live.com](mailto:carolinemaee@live.com)
 
