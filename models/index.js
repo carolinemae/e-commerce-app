@@ -29,4 +29,4 @@ Tag.belongsToMany(Product, {
     as: 'tagged_products'
 });
 
-module.exports = { Product, Category, Tag };
+module.exports = { Product, Category, Tag, ProductTag };
