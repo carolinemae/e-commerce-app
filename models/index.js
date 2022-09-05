@@ -12,13 +12,12 @@ Category.hasMany(Product, {
     onDelete: 'CASCADE',
 });
 
-// Product belongs to many tag models? Not sure if this is correct?
 Product.belongsToMany(Tag, {
     through: {
         model: ProductTag,
         unique: false
     },
-    as: 'product_tags'
+    as: 'tags'
 });
 
 Tag.belongsToMany(Product, {
@@ -26,7 +25,7 @@ Tag.belongsToMany(Product, {
         model: ProductTag,
         unique: false
     },
-    as: 'tagged_products'
+    as: 'products'
 });
 
 module.exports = { Product, Category, Tag, ProductTag };
